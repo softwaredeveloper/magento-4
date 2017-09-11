@@ -5,6 +5,8 @@ Magento integration with Apache OFBiz, compatible with OFBiz-13.07 and trunk
 
 Steps to use magneto component with Apache OFBiz-13.07 and OFBiz trunk
 
+# [Freelance magento developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
+
 1. Start Terminal and go to the home directory of Apache OFBiz
 2. Checkout magento component in hot-deploy folder
 3. Load data using command: ./ant load-demo
